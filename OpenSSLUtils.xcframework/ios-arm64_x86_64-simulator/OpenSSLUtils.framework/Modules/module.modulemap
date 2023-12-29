@@ -1,0 +1,6 @@
+framework module OpenSSLUtils {
+  umbrella header "OpenSSLUtils.h"
+
+  export *
+  module * { export * }
+}
